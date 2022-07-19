@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Compare Book Stock Automation">
+	<test thread-count="5" name="Compare Book Stock">
+		<classes>
+			<class name="stock.BookStockCompareSpec" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

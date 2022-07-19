@@ -1,0 +1,4 @@
+Key = https://www.amazon.in/, Value = 9274.0
+Key = https://www.buybooksindia.com/, Value = 12886.0
+Key = https://www.flipkart.com/, Value = 12786.0
+Lowest Bid Platform: https://www.amazon.in/ Lowest Bid : 9274.0

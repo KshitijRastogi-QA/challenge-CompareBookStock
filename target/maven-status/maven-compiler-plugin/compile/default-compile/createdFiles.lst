@@ -1,0 +1,14 @@
+base\TestBase.class
+pages\FlipkartBookPage.class
+pages\BookSearchPage.class
+util\BookList.class
+Wrapper\TotalDetails.class
+pages\BuyBooksIndiaPage.class
+pages\AmazonBookPage.class
+util\TestImplementation.class
+util\CommonMethods.class
+util\OnlinePlatform.class
+Wrapper\BookDetails.class
+Wrapper\Details.class
+util\CommonConstants.class
+Wrapper\PriceDetails.class
